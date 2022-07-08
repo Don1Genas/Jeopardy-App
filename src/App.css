@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+background-color: rgb(67, 92, 126);}
+
+.welcome {
+  color: #07d970;
+}
+.title {
+  color: #07d970;
+}
+.display {
+  color: #e0a009;
 }
 
 .App-logo {
